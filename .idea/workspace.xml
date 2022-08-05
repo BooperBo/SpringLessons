@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62e0eb19-f651-4b1d-b124-81870d3e4428" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/springlessons/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/springlessons/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/springlessons/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/springlessons/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/springlessons/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/springlessons/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
@@ -74,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659676126597</updated>
-      <workItem from="1659676128161" duration="4070000" />
+      <workItem from="1659676128161" duration="5378000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1659686277955</created>
@@ -104,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659687306971</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1659688394596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659688394596</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
